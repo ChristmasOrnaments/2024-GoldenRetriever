@@ -9,6 +9,7 @@ This ornament shares the same schematic and code base as the previous ornaments.
 ![front](media/front.jpg)
 ![goldenretriever](media/golden.jpg)
 ![schematic](media/schematic.jpg)
+![GoldenRetriever](media/GoldenRetriever.gif)
 
 ### Compiling
 
