@@ -6,13 +6,9 @@ The detailed explanation of the original Snowman ornament is [here](https://gith
 
 This ornament shares the same schematic and code base as the previous ornaments. Obviously the silkscreen image and LED locations have changed.  
 
-Here are some pics, and the code/resource files can be download from the bottom of the page.
-
-![schematic](media/schematic.jpg)
 ![front](media/front.jpg)
-![tree](media/golden.jpg)
-
-
+![goldenretriever](media/golden.jpg)
+![schematic](media/schematic.jpg)
 
 ### Compiling
 
